@@ -1,0 +1,28 @@
+NAME : Unnamed.400.tour
+COMMENT : Length = 400
+COMMENT : Found by LKH [Keld Helsgaun] Thu Oct 02 13:46:53 2014
+TYPE : TOUR
+DIMENSION : 20
+TOUR_SECTION
+1
+13
+18
+15
+11
+8
+7
+9
+10
+6
+5
+12
+4
+19
+17
+16
+14
+3
+2
+20
+-1
+EOF

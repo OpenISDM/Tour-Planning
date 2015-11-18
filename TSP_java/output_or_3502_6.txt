@@ -1,0 +1,25 @@
+NAME : Unnamed.235.tour
+COMMENT : Length = 235
+COMMENT : Found by LKH [Keld Helsgaun] Thu Oct 02 13:46:24 2014
+TYPE : TOUR
+DIMENSION : 17
+TOUR_SECTION
+1
+7
+8
+5
+3
+9
+14
+15
+12
+6
+11
+2
+10
+4
+17
+16
+13
+-1
+EOF

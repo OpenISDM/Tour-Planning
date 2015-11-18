@@ -1,0 +1,31 @@
+NAME : Unnamed.443.tour
+COMMENT : Length = 443
+COMMENT : Found by LKH [Keld Helsgaun] Thu Oct 02 13:46:48 2014
+TYPE : TOUR
+DIMENSION : 23
+TOUR_SECTION
+1
+9
+2
+10
+4
+20
+17
+16
+18
+19
+15
+14
+22
+6
+11
+7
+5
+8
+12
+3
+21
+23
+13
+-1
+EOF

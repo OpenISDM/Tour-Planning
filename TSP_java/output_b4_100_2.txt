@@ -1,0 +1,55 @@
+NAME : Unnamed.867.tour
+COMMENT : Length = 867
+COMMENT : Found by LKH [Keld Helsgaun] Sat Oct 04 21:49:55 2014
+TYPE : TOUR
+DIMENSION : 47
+TOUR_SECTION
+1
+41
+31
+29
+43
+39
+38
+35
+44
+32
+20
+23
+25
+24
+2
+9
+19
+11
+12
+8
+7
+15
+5
+14
+6
+4
+28
+18
+26
+16
+33
+30
+40
+46
+42
+36
+37
+34
+21
+17
+27
+10
+3
+13
+22
+45
+47
+-1
+EOF

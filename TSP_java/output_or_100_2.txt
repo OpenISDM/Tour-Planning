@@ -1,0 +1,61 @@
+NAME : Unnamed.999.tour
+COMMENT : Length = 999
+COMMENT : Found by LKH [Keld Helsgaun] Sat Oct 04 21:50:01 2014
+TYPE : TOUR
+DIMENSION : 53
+TOUR_SECTION
+1
+15
+8
+53
+23
+31
+10
+4
+16
+46
+40
+52
+38
+20
+30
+26
+49
+45
+39
+33
+32
+25
+12
+14
+13
+2
+7
+6
+9
+11
+5
+3
+37
+41
+50
+42
+22
+21
+24
+35
+17
+34
+29
+47
+51
+48
+43
+44
+36
+27
+18
+19
+28
+-1
+EOF

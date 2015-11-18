@@ -1,0 +1,14 @@
+NAME : Unnamed.130.tour
+COMMENT : Length = 130
+COMMENT : Found by LKH [Keld Helsgaun] Sun Nov 15 22:28:10 2015
+TYPE : TOUR
+DIMENSION : 6
+TOUR_SECTION
+1
+3
+5
+4
+2
+6
+-1
+EOF

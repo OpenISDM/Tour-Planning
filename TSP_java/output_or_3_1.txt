@@ -1,0 +1,11 @@
+NAME : Unnamed.71.tour
+COMMENT : Length = 71
+COMMENT : Found by LKH [Keld Helsgaun] Sun Oct 05 20:23:20 2014
+TYPE : TOUR
+DIMENSION : 3
+TOUR_SECTION
+1
+2
+3
+-1
+EOF

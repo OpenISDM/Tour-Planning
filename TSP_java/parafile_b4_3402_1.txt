@@ -1,0 +1,3 @@
+PROBLEM_FILE = probfile_b4_3402_1.tsp
+trace_level = 0
+output_tour_file = output_b4_3402_1.txt

@@ -1,0 +1,47 @@
+NAME : Unnamed.754.tour
+COMMENT : Length = 754
+COMMENT : Found by LKH [Keld Helsgaun] Sat Oct 04 21:49:55 2014
+TYPE : TOUR
+DIMENSION : 39
+TOUR_SECTION
+1
+10
+11
+9
+6
+21
+22
+12
+26
+30
+27
+29
+31
+8
+4
+19
+14
+7
+20
+13
+37
+33
+28
+24
+25
+32
+34
+35
+36
+38
+15
+23
+16
+17
+18
+3
+5
+2
+39
+-1
+EOF

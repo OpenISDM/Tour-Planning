@@ -1,0 +1,7 @@
+total number of nodes
+total number of salesman +1
+frame size * zoom
+w value
+centroids // number of salesmen of them
+depots    // number of salesmen of them
+nodes // starting from node No.1 to the total number of nodes

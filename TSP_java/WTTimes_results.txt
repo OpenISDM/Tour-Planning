@@ -1,0 +1,2 @@
+WTTimesB4.txt  1044
+WTTimesOR.txt  1106

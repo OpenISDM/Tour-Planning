@@ -1,0 +1,40 @@
+NAME : Unnamed.650.tour
+COMMENT : Length = 650
+COMMENT : Found by LKH [Keld Helsgaun] Sat Oct 04 21:49:48 2014
+TYPE : TOUR
+DIMENSION : 32
+TOUR_SECTION
+1
+7
+2
+8
+6
+5
+10
+4
+25
+20
+18
+17
+12
+15
+16
+26
+22
+11
+24
+13
+19
+29
+28
+27
+31
+30
+21
+23
+14
+9
+3
+32
+-1
+EOF

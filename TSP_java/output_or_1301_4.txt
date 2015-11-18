@@ -1,0 +1,16 @@
+NAME : Unnamed.93.tour
+COMMENT : Length = 93
+COMMENT : Found by LKH [Keld Helsgaun] Sun Oct 05 20:25:05 2014
+TYPE : TOUR
+DIMENSION : 8
+TOUR_SECTION
+1
+6
+5
+7
+3
+4
+2
+8
+-1
+EOF

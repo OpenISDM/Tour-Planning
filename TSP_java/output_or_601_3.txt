@@ -1,0 +1,20 @@
+NAME : Unnamed.187.tour
+COMMENT : Length = 187
+COMMENT : Found by LKH [Keld Helsgaun] Thu Oct 23 21:04:00 2014
+TYPE : TOUR
+DIMENSION : 12
+TOUR_SECTION
+1
+6
+5
+8
+4
+10
+11
+12
+7
+3
+2
+9
+-1
+EOF

@@ -1,0 +1,3 @@
+PROBLEM_FILE = probfile_co_100_3.tsp
+trace_level = 0
+output_tour_file = output_co_100_3.txt

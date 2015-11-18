@@ -1,0 +1,40 @@
+NAME : Unnamed.597.tour
+COMMENT : Length = 597
+COMMENT : Found by LKH [Keld Helsgaun] Sat Oct 04 21:49:56 2014
+TYPE : TOUR
+DIMENSION : 32
+TOUR_SECTION
+1
+2
+8
+4
+30
+21
+31
+27
+26
+25
+10
+11
+3
+5
+9
+6
+7
+14
+19
+15
+13
+20
+17
+23
+22
+18
+16
+24
+29
+28
+12
+32
+-1
+EOF
